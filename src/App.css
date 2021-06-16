@@ -1,0 +1,15 @@
+
+.btnadd {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  
+}
+.App-header{
+  background-color: rgb(84, 101, 173);
+}
+.titre {
+  font-family: 'Courier New', monospace;
+  font-weight: 900;
+
+}
